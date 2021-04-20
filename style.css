@@ -1,0 +1,31 @@
+* {
+  font-family: "Indie Flower", cursive;
+}
+
+h1 {
+  color: blanchedalmond;
+  background-color: black;
+  margin-bottom: 6px;
+  margin-top: 3px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+h2 {
+  text-align: center;
+  background-color: blueviolet;
+  color: white;
+  font-style: italic;
+  margin-top: 3px;
+  margin-bottom: 6px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+h3 {
+  text-align: right;
+  text-decoration: underline;
+  background-color: rgb(86, 215, 219);
+  margin-top: 3px;
+  margin-bottom: 1px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
